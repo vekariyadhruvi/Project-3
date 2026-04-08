@@ -41,7 +41,7 @@ while True:
     elif choice==2:
         print("\n---Display All Students---")
         for s in students:
-            print(f"Student ID: {s["id"][0]} | Name: {s["name"]} | Age: {s["age"]} | Grade: {s["grade"]} | Subjects: {', '.join(s["subjects"])} ")
+            print(f'Student ID: {s["id"][0]} | Name: {s["name"]} | Age: {s["age"]} | Grade: {s["grade"]} | Subjects: {', '.join(s["subjects"])}')
 
     elif choice==3:
         sid=int(input("\nEnter Student ID to be updated:"))
