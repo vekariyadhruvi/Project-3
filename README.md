@@ -1,4 +1,4 @@
-# Student Data Organizer (Python)
+# Student Data Organizer
 
 ## Overview
 The Student Data Organizer is a simple Python console-based application used to manage student records. It allows users to add, view, update, and delete student details, along with maintaining a list of subjects offered.
@@ -47,7 +47,7 @@ Subjects: Math, Physics, Python
 - Proper input types should be provided (e.g., integers for age and ID)  
 
 ## Video Explanation
-
+https://drive.google.com/file/d/1g3FG5Po8xsFJxxsY1B1-xi2eFRWsjdCF/view?usp=sharing
 
 ## Future Improvements
 - Add file handling for permanent data storage  
